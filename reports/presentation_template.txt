@@ -1,0 +1,6 @@
+Presentation template:
+Use python-pptx or PowerPoint to create slides. This placeholder indicates:
+- Title slide
+- CRISP-DM summary
+- Selected features & metrics
+- Plots (insert generated PNGs)
