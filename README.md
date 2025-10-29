@@ -17,11 +17,11 @@
 - **CRISP-DM Methodology**: 提供系統性的資料探勘流程
 
 ## 模型訓練摘要（本次合成資料運行結果）
-  測試目標：Confirmed
-  模型：Linear, Ridge, Lasso, RandomForest
-  評估（範例）：
-  Linear — RMSE ≈ 67.76, R² ≈ 0.552
-  RandomForest — RMSE ≈ 60.05, R² ≈ 0.648
+  - 測試目標：Confirmed
+  - 模型：Linear, Ridge, Lasso, RandomForest
+  - 評估（範例）：
+  - Linear — RMSE ≈ 67.76, R² ≈ 0.552
+  - RandomForest — RMSE ≈ 60.05, R² ≈ 0.648
 
 ## Dataset
 **資料集：** Vehicle Dataset from CarDekho (Kaggle)
